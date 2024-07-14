@@ -4,4 +4,4 @@
 
 Live link preview
 
-<a href="https://nhnahid45.github.io/Background-Color-Generete/"></a>
+<a href="https://nhnahid45.github.io/Background-Color-Generete/">Click here to view</a>
