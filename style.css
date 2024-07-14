@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+.btn{
+    padding: 10px 25px;
+    font-size: 20px;
+    border: 3px solid;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+body{
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
